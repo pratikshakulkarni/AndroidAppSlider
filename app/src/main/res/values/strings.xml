@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppSlider</string>
+
+    <string name="slide_name1">Bus Tickets</string>
+    <string name="slide_desc1">Book your Bus Tickets here</string>
+
+    <string name="slide_name2">Flight Tickets</string>
+    <string name="slide_desc2">Book your flight Tickets here</string>
+
+    <string name="slide_name3">Train Tickets</string>
+    <string name="slide_desc3">Book your train Tickets here</string>
+
+    <string name="slide_name4">Movie Tickets</string>
+    <string name="slide_desc4">Book your movie Tickets here</string>
+
+    <string name="my_preferences">com.abc.com.myPref</string>
+    <string name="my_preferences_key">com.abc.com.myPrefKey</string>
+</resources>

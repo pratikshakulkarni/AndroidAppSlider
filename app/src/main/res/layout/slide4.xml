@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/s4"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:background="@color/colorslid4">
+
+    <ImageView
+        android:id="@+id/movie_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="126dp"
+        android:src="@drawable/movie" />
+    <TextView
+        android:id="@+id/movie_tick"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/slide_name4"
+        android:layout_below="@+id/movie_image"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bus_dis"
+        android:layout_below="@+id/movie_tick"
+        android:text="@string/slide_desc4"
+        android:gravity="center"
+        android:textColor="#fff"/>
+
+</RelativeLayout>
+

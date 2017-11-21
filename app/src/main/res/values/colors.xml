@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorslid1">#009688</color>
+    <color name="colorslid2">#795548</color>
+    <color name="colorslid3">#8bc34a</color>
+    <color name="colorslid4">#3f51b5</color>
+    
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878b</color>
+
+
+</resources>
